@@ -1,4 +1,4 @@
-package com.example.shorebird_example
+package com.softonix.devtalks
 
 import io.flutter.embedding.android.FlutterActivity
 
